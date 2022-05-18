@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Post 1",
+      "description": "This is the first post"
+    },
+    {
+      "name": "Post 2",
+      "description": "This is the second post"
+    },
+    {
+      "name": "Post 3",
+      "description": "This is the third post"
+    }
+  ]
